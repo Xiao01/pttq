@@ -1,1 +1,4 @@
-
+1.QT的安装视频：https://www.bilibili.com/video/BV1wA411q7Wz?t=569
+2.QT安装注意事项：要退出杀毒软件如360，火绒等
+3.QT Hello world视频：https://www.bilibili.com/video/BV1wE411u7Dj?from=search&seid=4110154118467281168
+4.QT从入门到实战 金币游戏 https://www.bilibili.com/video/BV1g4411H78N?from=search&seid=10758989652494195096
