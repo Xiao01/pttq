@@ -1,0 +1,32 @@
+http://120.25.227.182:8763
+
+外包的
+#define testUrl         @"http://192.168.101.202:10001/"     //开发环境
+
+#define prodUrl         @"http://service2.signatorychain.com/"  //生产环境
+
+#define preProdUrl      @"http://192.168.101.200:10001/" //预发布生产地址
+
+公司的
+
+#define testUrl @"http://192.168.0.165:10001/"     //开发环境
+#define prodUrl @"https://saas.esignchainy.com/"  //生产环境
+#define preProdUrl @"http://120.25.227.182:8763/" //预发布生产地址
+
+第三方接口原外包用的
+#define UserService @"http://www.esignchainy.com/p/user_service.html" //用户协议
+#define PrivacyPolicy @"http://www.esignchainy.com/p/privacy_policy.html" //隐私政策
+#define AuthService @"http://www.esignchainy.com/p/auth_service.html" //认证协议
+#define helpCenter @"http://www.esignchainy.com/help/online_help.html" //帮助中心
+
+第三方接口公司用的
+#define UserService @"http://service2.signatorychain.com/p/user-service.html" //用户协议
+#define PrivacyPolicy @"http://service2.signatorychain.com/p/privacy-policy.html" //隐私政策
+#define AuthService @"http://service2.signatorychain.com/p/auth-service.html" //认证协议
+#define helpCenter @"http://service2.signatorychain.com/help/online-help.html" //帮助中心
+
+
+esignchainy.com
+
+
+signatorychain.com
